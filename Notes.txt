@@ -1,0 +1,11 @@
+Testing Hard Links
+
+This file looks like
+~/Google Drive/Notes/Testing hard links into a git repo.txt
+
+And also
+~/Code/github.com/mbigras/testing-hard-links/Notes.txt
+
+foo bar baz
+
+git config user.email "mbigras22@gmail.com"
